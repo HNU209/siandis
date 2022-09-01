@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/siandis/static/css/main.22be3a63.css",
+    "main.js": "/siandis/static/js/main.7d46d714.js",
+    "static/js/787.438def7a.chunk.js": "/siandis/static/js/787.438def7a.chunk.js",
+    "static/media/header_background.png": "/siandis/static/media/header_background.df9a0d5bf11f79f40ae1.png",
+    "static/media/cctv.png": "/siandis/static/media/cctv.03db8ab791fb5594d582.png",
+    "static/media/uam.png": "/siandis/static/media/uam.4bf57ad83bb056d2f461.png",
+    "static/media/replace.png": "/siandis/static/media/replace.7bf85a0737889677e9d8.png",
+    "service-worker.js": "/siandis/service-worker.js",
+    "static/media/person2.png": "/siandis/static/media/person2.62746f632679a7e348f1.png",
+    "static/media/siandis_logo2.png": "/siandis/static/media/siandis_logo2.2a49d6de3efa21b3163a.png",
+    "index.html": "/siandis/index.html",
+    "main.22be3a63.css.map": "/siandis/static/css/main.22be3a63.css.map",
+    "main.7d46d714.js.map": "/siandis/static/js/main.7d46d714.js.map",
+    "787.438def7a.chunk.js.map": "/siandis/static/js/787.438def7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22be3a63.css",
+    "static/js/main.7d46d714.js"
+  ]
+}
